@@ -13,7 +13,7 @@ Mikel Coffee Company, or Mikel, is a rapidly expanding Greek coffeehouse chain, 
 
 
 # FiveM Forum Topic
-Coming Soon
+https://forum.cfx.re/t/release-mikel-van-greek-coffee-company-fivem-ready/1560200
 
 # Screenshots
 ![Test Image 1](/img/0.png)
